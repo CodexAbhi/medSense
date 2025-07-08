@@ -1,0 +1,50 @@
+{
+    "common_symptoms": {
+      "headache": {
+        "possible_causes": ["tension headache", "migraine", "sinus infection", "dehydration"],
+        "emergency_signs": ["worst headache of life", "accompanying confusion", "high fever", "neck stiffness"]
+      },
+      "fever": {
+        "possible_causes": ["viral infection", "common cold", "flu", "bacterial infection"],
+        "emergency_signs": ["very high fever (>103°F/39.4°C)", "rash", "severe headache", "difficulty breathing"]
+      },
+      "cough": {
+        "possible_causes": ["common cold", "allergies", "asthma", "bronchitis"],
+        "emergency_signs": ["coughing up blood", "severe shortness of breath", "chest pain"]
+      },
+      "abdominal_pain": {
+        "possible_causes": ["indigestion", "gas", "constipation", "food poisoning", "menstrual cramps"],
+        "emergency_signs": ["severe pain", "rigid abdomen", "vomiting blood", "black stool"]
+      },
+      "fatigue": {
+        "possible_causes": ["lack of sleep", "stress", "depression", "vitamin deficiency", "anemia"],
+        "emergency_signs": ["extreme fatigue with shortness of breath", "chest pain", "confusion"]
+      }
+    },
+    "home_remedies": {
+      "headache": [
+        "Rest in a quiet, dark room",
+        "Apply a cold or warm compress",
+        "Stay hydrated",
+        "Over-the-counter pain relievers (following package instructions)"
+      ],
+      "common_cold": [
+        "Rest and adequate sleep",
+        "Stay hydrated",
+        "Warm liquids like tea with honey",
+        "Saline nasal spray or rinse"
+      ],
+      "indigestion": [
+        "Avoid spicy or fatty foods",
+        "Eat smaller meals",
+        "Try ginger tea or peppermint tea",
+        "Avoid lying down right after eating"
+      ],
+      "stress": [
+        "Deep breathing exercises",
+        "Progressive muscle relaxation",
+        "Light physical activity",
+        "Adequate sleep"
+      ]
+    }
+  }
