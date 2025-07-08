@@ -34,7 +34,7 @@
 ## ⚙️ How to Run It
 
 ```bash
-git clone https://github.com/your-username/medsense
+git clone https://github.com/CodexAbhi/medSense
 cd medsense
 streamlit run app.py
 ```
