@@ -1,7 +1,5 @@
 # MedSense – AI Health Companion (Totally a Group Project)
 
-> Definitely not my major project. Definitely not built alone. Definitely not doing the work of four people.
-
 **MedSense** is an AI-powered healthcare assistant built with Streamlit and LangChain. It provides interactive, symptom-based consultations, generates structured medical reports, and offers a clean conversational interface to help users better understand their health. Oh, and it's just getting started.
 
 ---
